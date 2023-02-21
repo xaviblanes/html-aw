@@ -9,7 +9,7 @@ three or more hyphens
 
 <hr/>
 html hr tag 
-### Project status
+*** Project status ***
 
 - [x] Design
 - [x] Mockups

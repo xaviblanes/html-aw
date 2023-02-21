@@ -7,36 +7,11 @@ three or more underscores
 ---
 three or more hyphens
 
-<hr/>
-html hr tag 
-*** Project status ***
+___
 
-- [x] Design
-- [x] Mockups
-- [x] Development
-- [x] Unit testing
-- [ ] QA
-- [ ] Stage
-- [ ] Beta Testing
-- [ ] Production
-
-├── src
-│   ├── controller
-│   │   ├── **/*.css
-│   ├── views
-│   ├── model
-│   ├── index.js
-├── public
-│   ├── css
-│   │   ├── **/*.css
-│   ├── images
-│   ├── js
-│   ├── index.html
-├── dist (or build
-├── node_modules
-├── package.json
-├── package-lock.json 
-└── .gitignore
-
-
-
+# heading1 example
+## heading2 example
+### heading3 example
+#### heading4 example
+##### heading5 example
+###### heading6 example

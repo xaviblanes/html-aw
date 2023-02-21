@@ -4,4 +4,10 @@
 three or more Asterisks
 ___
 three or more underscores
+---
+three or more hyphens
+
+<hr/>
+html hr tag 
+
 
